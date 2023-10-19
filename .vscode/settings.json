@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "w7500x_gpio.h": "c",
+        "w7500x_uart.h": "c"
+    }
+}
